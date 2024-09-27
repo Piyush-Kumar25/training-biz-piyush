@@ -310,3 +310,5 @@ head history.txt
 tails history.txt 
 tail history.txt 
 ls
+vi temp.txt
+wc temp.txt
