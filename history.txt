@@ -244,3 +244,5 @@ cd ..
 ls
 vi text2.txt
 cd cronejob_assignment
+mkdir new_folder
+ls
