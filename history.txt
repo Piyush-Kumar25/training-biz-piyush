@@ -239,3 +239,4 @@ clear
 ls
 ls pip grep .sh
  ls pipe grep .sh
+ ls |  grep '.sh'
