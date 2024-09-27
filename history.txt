@@ -288,3 +288,7 @@ cd archive.zip
 gunzip archive.zip 
 ls
 zip archive.gz new_file
+ls
+gunzip archive.gz
+ls
+clear
