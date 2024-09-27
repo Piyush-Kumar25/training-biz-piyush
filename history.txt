@@ -278,3 +278,4 @@ du -ah ~
 df -ah ~
 df -ah
 top
+uname -a
