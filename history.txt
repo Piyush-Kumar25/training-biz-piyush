@@ -321,3 +321,5 @@ grep ".txt"
 grep '.txt'
  ls | grep '.txt'
 cat temp.txt
+grep -i "Hello" temp.txt
+grep -i "ol" temp.txt
