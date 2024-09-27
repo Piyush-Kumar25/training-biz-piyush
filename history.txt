@@ -225,3 +225,5 @@ sudo grep CRON /var/log/cron
 pwd
 ls
 pwd
+crontab -e
+ls
