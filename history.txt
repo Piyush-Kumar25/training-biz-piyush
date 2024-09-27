@@ -320,3 +320,4 @@ grep .txt
 grep ".txt"
 grep '.txt'
  ls | grep '.txt'
+cat temp.txt
