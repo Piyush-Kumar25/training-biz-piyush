@@ -264,3 +264,6 @@ df -ah | grep '/dev'
 df -ah | grep '/home'
 df -ah | grep '/'
 df -ah | wc dev
+df -ah | wc 'dev'
+clear
+du -h
