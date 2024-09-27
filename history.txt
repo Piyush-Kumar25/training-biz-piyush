@@ -267,3 +267,7 @@ df -ah | wc dev
 df -ah | wc 'dev'
 clear
 du -h
+ls
+ls -l
+ls -a
+du -h
