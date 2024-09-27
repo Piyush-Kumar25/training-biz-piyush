@@ -300,3 +300,5 @@ sudo yum update
 ls 
 ps -ef
 vi history.txt
+ls
+cd cronejob_assignment/
