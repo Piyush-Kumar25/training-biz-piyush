@@ -299,3 +299,4 @@ ls
 sudo yum update
 ls 
 ps -ef
+vi history.txt
