@@ -284,3 +284,7 @@ ls
 zip new_file
 zip archive.zip new_file
 ls
+cd archive.zip 
+gunzip archive.zip 
+ls
+zip archive.gz new_file
