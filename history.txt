@@ -309,3 +309,4 @@ vi history.txt
 head history.txt 
 tails history.txt 
 tail history.txt 
+ls
