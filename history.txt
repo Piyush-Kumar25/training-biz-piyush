@@ -260,3 +260,7 @@ df -ha
 df -ah
 df -ah | grep '.txt'
 df -ah | grep 'home'
+df -ah | grep '/dev'
+df -ah | grep '/home'
+df -ah | grep '/'
+df -ah | wc dev
