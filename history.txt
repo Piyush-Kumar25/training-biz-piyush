@@ -312,3 +312,5 @@ tail history.txt
 ls
 vi temp.txt
 wc temp.txt
+crontab -e
+crontab -l
