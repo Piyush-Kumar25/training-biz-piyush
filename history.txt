@@ -242,3 +242,4 @@ ls pip grep .sh
  ls |  grep '.sh'
 cd ..
 ls
+vi text2.txt
