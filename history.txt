@@ -271,3 +271,4 @@ ls
 ls -l
 ls -a
 du -h
+ls -a
