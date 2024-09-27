@@ -102,3 +102,43 @@ mkdir cronejob_assignment
 cd cronejob_assignment/
 git clone https://github.com/Piyush-Kumar25/training-biz-piyush
 ls
+ls
+cd cronejob_assignment
+ls
+cd training-biz-piyush/
+pwd
+touch push_history.sh
+ls
+vi push_history.sh 
+cd cronejob_assignment
+ls
+cd training-biz-piyush/
+ls
+touch history.txt
+ls
+pwd
+vi push_history.sh
+chmod 700 push_history.sh 
+./push_history.sh 
+ssh-keygen -t rsa -b 4096 -C "ikumarpiyush@gmail.com"
+[200~eval "$(ssh-agent -s)"
+~eval "$(ssh-agent -s)"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub
+git remote set-url origin git@github.com:Piyush_Kumar25/training-biz-piyush.git
+git remote -b
+git remote -v
+ssh -T git@github.com
+git branch --unset-upstream
+git push --set-upstream origin main
+git remote set-url origin git@github.com:Piyush_Kumar25/training-biz-piyush.git
+git remote -v
+ssh -T git@github.com
+git branch --unset-upstream
+git push --set-upstream origin main
+git remote set-url origin https://github.com/Piyush-Kumar25/training-biz-piyush.git
+git remote -v
+ssh -T git@github.com
+git branch --unset-upstream
+git push --set-upstream origin main
