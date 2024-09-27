@@ -210,3 +210,7 @@ exd
 y
 sudo grep CRON /var/log/cron
 date
+ls
+pwd
+cat
+sudo grep CRON /var/log/cron
