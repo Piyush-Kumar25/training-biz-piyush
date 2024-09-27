@@ -292,3 +292,5 @@ ls
 gunzip archive.gz
 ls
 clear
+zip archive.gz archive
+ls
