@@ -282,3 +282,5 @@ uname -a
 hostname
 ls
 zip new_file
+zip archive.zip new_file
+ls
