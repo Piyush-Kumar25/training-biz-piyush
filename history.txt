@@ -248,3 +248,6 @@ mkdir new_folder
 ls
 rmdir new_folder
 ls
+cd ..
+touch new_file
+ls
