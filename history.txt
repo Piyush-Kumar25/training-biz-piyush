@@ -214,3 +214,6 @@ ls
 pwd
 cat
 sudo grep CRON /var/log/cron
+ls
+pwd
+sudo grep CRON /var/log/cron
