@@ -276,3 +276,4 @@ ls -als -la
 ls -la
 du -ah ~
 df -ah ~
+df -ah
