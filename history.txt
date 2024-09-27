@@ -280,3 +280,5 @@ df -ah
 top
 uname -a
 hostname
+ls
+zip new_file
