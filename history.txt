@@ -255,3 +255,8 @@ chmod 700 new_file
 free -g
 du -h
 ls
+df -h
+df -ha
+df -ah
+df -ah | grep '.txt'
+df -ah | grep 'home'
