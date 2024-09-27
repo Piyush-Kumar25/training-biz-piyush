@@ -297,3 +297,4 @@ ls
 gunzip archive.gz 
 ls
 sudo yum update
+ls 
