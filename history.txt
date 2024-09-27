@@ -298,3 +298,4 @@ gunzip archive.gz
 ls
 sudo yum update
 ls 
+ps -ef
