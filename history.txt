@@ -233,3 +233,4 @@ ls
 training-biz-piyush/
 cd training-biz-piyush/
 history
+sudo grep CRON /var/log/cron
