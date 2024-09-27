@@ -252,3 +252,4 @@ cd ..
 touch new_file
 ls
 chmod 700 new_file
+free -g
