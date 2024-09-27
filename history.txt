@@ -236,3 +236,6 @@ history
 sudo grep CRON /var/log/cron
 cls
 clear
+ls
+ls pip grep .sh
+ ls pipe grep .sh
