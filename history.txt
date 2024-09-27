@@ -197,3 +197,16 @@ ls
 vi push_history.sh 
 source ~/.bashrc 
 sudo grep CRON /var/log/cron
+ls
+df
+d
+xd
+d
+f
+fg
+drysd
+tyed
+exd
+y
+sudo grep CRON /var/log/cron
+date
