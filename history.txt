@@ -254,3 +254,4 @@ ls
 chmod 700 new_file
 free -g
 du -h
+ls
