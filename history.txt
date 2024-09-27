@@ -296,3 +296,4 @@ zip archive.gz archive
 ls
 gunzip archive.gz 
 ls
+sudo yum update
