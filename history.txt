@@ -332,3 +332,4 @@ kill -15 1562
 ps
 ftp ftp.sunet.se
 echo  "Hello world!"
+pwd
