@@ -342,3 +342,5 @@ ifconfig
 awk '{print $1} text2.txt
 vi text2.txt
 awk '{print $1}' text2.txt
+vi text2.txt
+awk '{print $1}' text2.txt
