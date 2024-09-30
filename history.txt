@@ -336,3 +336,4 @@ pwd
 ping example
 ping example.com
 telnet example.com
+telnet example.com 80
