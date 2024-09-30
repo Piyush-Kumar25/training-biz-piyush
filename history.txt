@@ -335,3 +335,4 @@ echo  "Hello world!"
 pwd
 ping example
 ping example.com
+telnet example.com
