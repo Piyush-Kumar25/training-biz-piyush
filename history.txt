@@ -328,3 +328,5 @@ find . -iname "history.txt"
 ps
  kill 1562
 ps
+kill -15 1562
+ps
