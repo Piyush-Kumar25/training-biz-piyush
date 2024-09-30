@@ -333,3 +333,5 @@ ps
 ftp ftp.sunet.se
 echo  "Hello world!"
 pwd
+ping example
+ping example.com
