@@ -355,3 +355,5 @@ crontab -e
 pwd
 ls
 ./system_report_smail.sh 
+vi system_report_smail.sh 
+crontab -l
