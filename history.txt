@@ -352,3 +352,6 @@ sudo chmod 777 /home/ec2-user/system_report_smail.sh
 crontab -e
 ./system_report_smail.sh 
 crontab -e
+pwd
+ls
+./system_report_smail.sh 
