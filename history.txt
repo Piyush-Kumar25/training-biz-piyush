@@ -358,3 +358,5 @@ ls
 vi system_report_smail.sh 
 crontab -l
 crontab -e
+vi system_report_smail.sh 
+./system_report_smail.sh 
