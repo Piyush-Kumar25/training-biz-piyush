@@ -361,3 +361,4 @@ crontab -e
 vi system_report_smail.sh 
 ./system_report_smail.sh 
 ls
+vi payments.csv
