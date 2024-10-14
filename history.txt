@@ -389,3 +389,4 @@ source myirtual_venv/bin/activate
 sudo yum install postgresql-devel python3-devel
 pip install psycopg2
 pip install fastapi
+ls
