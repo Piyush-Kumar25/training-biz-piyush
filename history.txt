@@ -362,3 +362,5 @@ vi system_report_smail.sh
 ./system_report_smail.sh 
 ls
 vi payments.csv
+pwd
+ ls -lh sort=size
