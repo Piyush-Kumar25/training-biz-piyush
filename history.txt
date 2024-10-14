@@ -379,3 +379,6 @@ cd environment
 sudo apt install python3-venv
 sudo yum install python3-venv
 sudo yum install virtualenv
+$ sudo yum install -y python36
+sudo yum install -y python36
+sudo yum install -y python3.6
