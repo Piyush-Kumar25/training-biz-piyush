@@ -371,3 +371,4 @@ ls | find . -maxdepth 1 -type d -exec bash -c "echo -ne '{} '; ls '{}' | wc -l" 
  find . -maxdepth 1 -type d -exec bash -c "echo -ne '{} '; ls '{}' | wc -l" \; |  awk '$NF>=10'  -printf '%h\0'
  find . -maxdepth 1 -type d -exec bash -c "echo -ne '{} '; ls '{}' | wc -l" \; |  awk '$NF>=10'
  find . -maxdepth 1 -type d -exec bash -c "echo -ne '{} '; ls '{}' | wc -l" \; |  awk '$NF>=100'
+mkdir environment
