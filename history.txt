@@ -365,3 +365,4 @@ vi payments.csv
 pwd
  ls -lh sort=size
  ls -lh --sort=size
+find . -maxdepth 1 -type d -exec bash -c "echo -ne '{} '; ls '{}' | wc -l" \; |   awk '$NF>=10'
