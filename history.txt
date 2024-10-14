@@ -387,3 +387,4 @@ python -m venv myirtual_venv
 source myvirtual_venv/bin/activate
 source myirtual_venv/bin/activate
 sudo yum install postgresql-devel python3-devel
+pip install psycopg2
