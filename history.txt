@@ -364,3 +364,4 @@ ls
 vi payments.csv
 pwd
  ls -lh sort=size
+ ls -lh --sort=size
