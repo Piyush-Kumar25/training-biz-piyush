@@ -385,3 +385,4 @@ sudo yum install -y python3.6
 sudo yum install -y python
 python -m venv myirtual_venv
 source myvirtual_venv/bin/activate
+source myirtual_venv/bin/activate
