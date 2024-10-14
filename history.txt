@@ -382,3 +382,5 @@ sudo yum install virtualenv
 $ sudo yum install -y python36
 sudo yum install -y python36
 sudo yum install -y python3.6
+sudo yum install -y python
+python -m venv myirtual_venv
